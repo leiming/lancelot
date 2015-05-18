@@ -1,2 +1,2 @@
 # lancelot
-A generator for Gilgames
+A scaffold for Gilgames
